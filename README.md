@@ -1,0 +1,1 @@
+Solution to HackerRank "queens-attack-2" problem in Algorithms/Implementation section
